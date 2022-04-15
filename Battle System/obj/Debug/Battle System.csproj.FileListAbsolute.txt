@@ -1,0 +1,72 @@
+C:\Users\erick\source\repos\Battle System\Battle System\bin\Debug\Battle System.exe.config
+C:\Users\erick\source\repos\Battle System\Battle System\bin\Debug\Battle System.exe
+C:\Users\erick\source\repos\Battle System\Battle System\bin\Debug\Battle System.pdb
+C:\Users\erick\source\repos\Battle System\Battle System\obj\Debug\Battle System.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\Battle System\Battle System\obj\Debug\Battle_System.battlephase.resources
+C:\Users\erick\source\repos\Battle System\Battle System\obj\Debug\Battle_System.Properties.Resources.resources
+C:\Users\erick\source\repos\Battle System\Battle System\obj\Debug\Battle System.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\Battle System\Battle System\obj\Debug\Battle System.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Battle System\Battle System\obj\Debug\Battle System.exe
+C:\Users\erick\source\repos\Battle System\Battle System\obj\Debug\Battle System.pdb
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle System.csprojAssemblyReference.cache
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle_System.battlephase.resources
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle_System.Properties.Resources.resources
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle System.csproj.GenerateResource.cache
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle System.csproj.CoreCompileInputs.cache
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle System.exe
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle System.pdb
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\bin\Debug\Battle System.exe.config
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\bin\Debug\Battle System.exe
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\bin\Debug\Battle System.pdb
+D:\VisualStudio\SAA 3.0\Battle System\bin\Debug\Battle System.exe.config
+D:\VisualStudio\SAA 3.0\Battle System\bin\Debug\Battle System.exe
+D:\VisualStudio\SAA 3.0\Battle System\bin\Debug\Battle System.pdb
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle System.csprojAssemblyReference.cache
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle_System.battlephase.resources
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle_System.FormMenu.resources
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle_System.Properties.Resources.resources
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle System.csproj.GenerateResource.cache
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle System.csproj.CoreCompileInputs.cache
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle System.exe
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle System.pdb
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle_System.FormStory.resources
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle_System.FormGameplay.resources
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle_System.FormMenu.resources
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle_System.FormStory.resources
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle_System.FormGameplay.resources
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\bin\Debug\Battle System.exe.config
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\bin\Debug\Battle System.exe
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\bin\Debug\Battle System.pdb
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle System.csprojAssemblyReference.cache
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle_System.battlephase.resources
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle_System.FormMenu.resources
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle_System.FormStory.resources
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle_System.FormGameplay.resources
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle_System.Properties.Resources.resources
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle System.csproj.GenerateResource.cache
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle System.csproj.CoreCompileInputs.cache
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle System.exe
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle System.pdb
+C:\Users\Yafet\Source\Repos\SAASAASAA\Battle System\obj\Debug\Battle_System.SystemAttack.resources
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle_System.SystemAttack.resources
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle_System.SystemAttack.resources
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle_System.FormItem.resources
+D:\VisualStudio\SAA 3.0\Battle System\obj\Debug\Battle_System.FormGameOver.resources
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle_System.FormItem.resources
+C:\Users\erick\Source\Repos\HiItsNiko\SAASAASAA\Battle System\obj\Debug\Battle_System.FormGameOver.resources
+D:\SAASAASAA\Battle System\bin\Debug\Battle System.exe.config
+D:\SAASAASAA\Battle System\bin\Debug\Battle System.exe
+D:\SAASAASAA\Battle System\bin\Debug\Battle System.pdb
+D:\SAASAASAA\Battle System\obj\Debug\Battle System.csprojAssemblyReference.cache
+D:\SAASAASAA\Battle System\obj\Debug\Battle_System.FormItem.resources
+D:\SAASAASAA\Battle System\obj\Debug\Battle_System.battlephase.resources
+D:\SAASAASAA\Battle System\obj\Debug\Battle_System.FormGameOver.resources
+D:\SAASAASAA\Battle System\obj\Debug\Battle_System.FormMenu.resources
+D:\SAASAASAA\Battle System\obj\Debug\Battle_System.FormStory.resources
+D:\SAASAASAA\Battle System\obj\Debug\Battle_System.FormGameplay.resources
+D:\SAASAASAA\Battle System\obj\Debug\Battle_System.SystemAttack.resources
+D:\SAASAASAA\Battle System\obj\Debug\Battle_System.Properties.Resources.resources
+D:\SAASAASAA\Battle System\obj\Debug\Battle System.csproj.GenerateResource.cache
+D:\SAASAASAA\Battle System\obj\Debug\Battle System.csproj.CoreCompileInputs.cache
+D:\SAASAASAA\Battle System\obj\Debug\Battle System.exe
+D:\SAASAASAA\Battle System\obj\Debug\Battle System.pdb
